@@ -1,0 +1,7 @@
+name 'paneer'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures paneer'
+long_description 'Installs/Configures paneer'
+version '0.1.0'
